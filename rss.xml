@@ -7,7 +7,7 @@
 
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Hugo 主题 MemE</title>
+        <title>Super Man</title>
         <link>https://zjs248.top/</link>
         <description>MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</description>
         <generator>Hugo 0.91.0 https://gohugo.io/</generator>
@@ -15,15 +15,15 @@
             <language>zh-CN</language>
         
         
-            <managingEditor>reuixiy@gmail.com (reuixiy)</managingEditor>
+            <managingEditor>2485885705@qq.com (ZJS)</managingEditor>
         
         
-            <webMaster>reuixiy@gmail.com (reuixiy)</webMaster>
+            <webMaster>2485885705@qq.com (ZJS)</webMaster>
         
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Wed, 22 Dec 2021 16:28:29 &#43;0800</lastBuildDate>
+        <lastBuildDate>Thu, 30 Dec 2021 17:51:30 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://zjs248.top/rss.xml" />
         
@@ -34,7 +34,7 @@
                 <guid isPermaLink="true">https://zjs248.top/posts/creating-a-new-theme/</guid>
                 <pubDate>Sun, 28 Sep 2014 00:00:00 &#43;0000</pubDate>
                 
-                    <author>reuixiy@gmail.com (reuixiy)</author>
+                    <author>2485885705@qq.com (ZJS)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
@@ -864,7 +864,7 @@ $ vi themes/zafta/layouts/_default/single.html
                 <guid isPermaLink="true">https://zjs248.top/posts/migrate-from-jekyll/</guid>
                 <pubDate>Mon, 10 Mar 2014 00:00:00 &#43;0000</pubDate>
                 
-                    <author>reuixiy@gmail.com (reuixiy)</author>
+                    <author>2485885705@qq.com (ZJS)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
@@ -1021,7 +1021,7 @@ Liquid::Template.register_tag(&#39;image&#39;, Jekyll::ImageTag)
                 <guid isPermaLink="true">https://zjs248.top/posts/goisforlovers/</guid>
                 <pubDate>Wed, 02 Apr 2014 00:00:00 &#43;0000</pubDate>
                 
-                    <author>reuixiy@gmail.com (reuixiy)</author>
+                    <author>2485885705@qq.com (ZJS)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
@@ -1334,7 +1334,7 @@ so, such as in this example:&lt;/p&gt;
                 <guid isPermaLink="true">https://zjs248.top/posts/hugoisforlovers/</guid>
                 <pubDate>Wed, 02 Apr 2014 00:00:00 &#43;0000</pubDate>
                 
-                    <author>reuixiy@gmail.com (reuixiy)</author>
+                    <author>2485885705@qq.com (ZJS)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
