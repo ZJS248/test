@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">Super Man</title>
     <subtitle type="html">welcome to my space</subtitle>
-    <updated>2021-12-31T14:48:43&#43;08:00</updated>
+    <updated>2021-12-31T15:04:19&#43;08:00</updated>
     <id>https://zjs248.top/</id>
     <link rel="alternate" type="text/html" href="https://zjs248.top/" />
     <link rel="self" type="application/atom&#43;xml" href="https://zjs248.top/atom.xml" />
@@ -24,7 +24,7 @@
             <published>2021-12-31T13:49:06&#43;08:00</published>
             <author>
                     <name>ZJS</name>
-                    <uri>https://zjs.top</uri>
+                    <uri>https://zjs248.top</uri>
                     <email>mailto:2485885705@qq.com</email>
                     </author>
             <summary type="html">Hello World </summary>
@@ -52,7 +52,7 @@
             <published>2014-09-28T00:00:00&#43;00:00</published>
             <author>
                     <name>ZJS</name>
-                    <uri>https://zjs.top</uri>
+                    <uri>https://zjs248.top</uri>
                     <email>mailto:2485885705@qq.com</email>
                     </author>
             <summary type="html">Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&#39;ll explain how Hugo uses templates and how you can organize your templates to create a theme.</summary>
@@ -885,7 +885,7 @@ $ vi themes/zafta/layouts/_default/single.html
             <published>2014-04-02T00:00:00&#43;00:00</published>
             <author>
                     <name>ZJS</name>
-                    <uri>https://zjs.top</uri>
+                    <uri>https://zjs248.top</uri>
                     <email>mailto:2485885705@qq.com</email>
                     </author>
             <summary type="html">Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website.</summary>
@@ -1201,7 +1201,7 @@ so, such as in this example:&lt;/p&gt;
             <published>2014-04-02T00:00:00&#43;00:00</published>
             <author>
                     <name>ZJS</name>
-                    <uri>https://zjs.top</uri>
+                    <uri>https://zjs248.top</uri>
                     <email>mailto:2485885705@qq.com</email>
                     </author>
             <summary type="html">Step 1. Install Hugo Goto hugo releases and download the appropriate version for your os and architecture.
@@ -1325,7 +1325,7 @@ Having nearly instant feedback enables you to have your creativity flow without 
             <published>2014-03-10T00:00:00&#43;00:00</published>
             <author>
                     <name>ZJS</name>
-                    <uri>https://zjs.top</uri>
+                    <uri>https://zjs248.top</uri>
                     <email>mailto:2485885705@qq.com</email>
                     </author>
             <summary type="html">Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like</summary>
